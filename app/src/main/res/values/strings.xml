@@ -4,4 +4,7 @@
     <string name="explore">Explore</string>
     <string name="subscriptions">Subscriptions</string>
     <string name="library">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_bottom_navigation">Test Bottom Navigation</string>
 </resources>
