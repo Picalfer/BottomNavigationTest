@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationTest</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="library">Library</string>
+</resources>
